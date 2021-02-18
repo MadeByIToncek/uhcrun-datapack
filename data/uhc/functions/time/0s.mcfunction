@@ -13,6 +13,7 @@ give @a minecraft:stone_axe 1
 give @a minecraft:stone_shovel 1
 give @a minecraft:oak_log 1
 give @a minecraft:cooked_beef 64
+gamemode survival @a
 
 schedule function uhc:wait 1s
 schedule function uhc:game/time/5s 1s
