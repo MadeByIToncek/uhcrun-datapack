@@ -1,0 +1,18 @@
+{
+    "display": {
+        "title": "IToncek",
+        "description": "",
+        "icon": {
+            "item": "minecraft:player_head",
+            "nbt": "{SkullOwner:{Name: \"IToncek\", Properties: {textures: [{Value: \"ewogICJ0aW1lc3RhbXAiIDogMTYxMzY0NDM3MDMwOCwKICAicHJvZmlsZUlkIiA6ICJiNTZkMTQzZmJjMzQ0MmM5ODI3MGY4ZDQ3MzY3MzJmZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJJVG9uY2VrIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2I2NTdkMzFkNDk1NjIzYzc3YWVjMDMxZDFhMGQzMDVlMTNjY2FlYjc5ZWZmMmUwMWUxZDYxYTQ2NzVkZjZhZjciCiAgICB9CiAgfQp9\"}]}}}"
+        },
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+    "parent": "global:root",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

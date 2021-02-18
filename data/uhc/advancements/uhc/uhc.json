@@ -1,0 +1,17 @@
+{
+    "display": {
+        "title": "UHCrun",
+        "description": "UHCrun pro veerzi 1.17",
+        "icon": {
+            "item": "minecraft:barrier"
+        },
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+    "parent": "global:uhc",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
