@@ -16,6 +16,7 @@ gamemode adventure @a
 defaultgamemode adventure
 gamerule spawnRadius 0
 setworldspawn 0 311 0
+clear @a
 
 schedule function uhc:teams_create 1s
 
