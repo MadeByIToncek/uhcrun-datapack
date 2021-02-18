@@ -12,4 +12,6 @@ give @a minecraft:stone_pickaxe 1
 give @a minecraft:stone_axe 1
 give @a minecraft:stone_shovel 1
 give @a minecraft:oak_log 1
-give @a minecraft:steak 64
+give @a minecraft:cooked_beef 64
+
+schedule function uhc:wait 1t
